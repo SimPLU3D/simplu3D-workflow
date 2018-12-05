@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="schemaPretraitementSimPLU-IAU.svg">
+   sodipodi:docname="SchemaPretraitementSimPLU-IAU.svg">
   <defs
      id="defs4">
     <marker
@@ -445,9 +445,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.53345344"
-     inkscape:cx="-278.63335"
-     inkscape:cy="1249.1863"
+     inkscape:zoom="0.70120039"
+     inkscape:cx="22.605655"
+     inkscape:cy="1703.6791"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -799,27 +799,27 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="415.95749"
-       y="-418.64346"
+       x="450.24387"
+       y="-420.66031"
        id="text14754"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan14756"
-         x="415.95749"
-         y="-418.64346"
-         style="fill:#ff6600">CARTOPLU_PLUS.shp</tspan></text>
+         x="450.24387"
+         y="-420.66031"
+         style="fill:#ff6600">regles.shp</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-237.14014"
-       y="-516.94952"
+       x="-169.57578"
+       y="-519.97479"
        id="text14754-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan14756-8"
-         x="-237.14014"
-         y="-516.94952"
-         style="fill:#ff6600">Projets_damenagement_en_IledeFrance.shp</tspan></text>
+         x="-169.57578"
+         y="-519.97479"
+         style="fill:#ff6600">amenagement.shp</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -850,15 +850,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-65.725029"
-       y="-428.82281"
+       x="-22.362829"
+       y="-431.84808"
        id="text14754-4-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan14756-8-3"
-         x="-65.725029"
-         y="-428.82281"
-         style="fill:#ff6600">mos_81_cogit.shp</tspan></text>
+         x="-22.362829"
+         y="-431.84808"
+         style="fill:#ff6600">mos.shp</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4149-0-7-3"
@@ -902,7 +902,7 @@
          x="-545.83014"
          y="-757.27893"
          style="fill:#ff6600"
-         id="tspan5204">parcels.shp  <tspan
+         id="tspan5204">parcels_94.shp  <tspan
    style="fill:#008000"
    id="tspan5206">(IDPAR, geom)</tspan></tspan></text>
     <text
