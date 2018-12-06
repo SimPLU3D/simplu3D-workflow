@@ -20,7 +20,6 @@ output_shape="parcels_rulez"
 db_host="localhost"
 db_name="iauidf_from_scratch"
 db_user="imrandb"
-db_table="simuls_geom_no_modifs"
 
 # db tables where we import the shapefiles, must be the same as the ones 
 # in the sql file $sql_creating_parcelles_rules
