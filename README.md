@@ -91,7 +91,15 @@ This steps aims at distributing the calculation with OpenMole. The downloaded *S
 
 This steps aims at integrating the simulation results into the database created in the Annoteteur/affectator step.
 
-The script and the documentation are available in the *iauidf_results_to_db/*.
+It is done by running the *import_results_to_pg.sh* available in *iauidf_results_to_db/*.
+
+It mainly consists of two steps :
+
+- first, importing the geometries with the *simplushp2pgsql.jar* program. it needs a configuration file to be set accordingly to the database credentials and the path to the simulation results
+- then, splitting the *output.csv* file in two, one for errors and the other for the floor area calculation, and then importing them in the database also
+
+The variables to be set are in the *import_results_to_pg.sh* and are self explicit.
+
 
 # Conditions for use
 
