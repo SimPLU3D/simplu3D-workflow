@@ -6,6 +6,8 @@ aggregatorscriptversion='1.0'
 ## Version of SimPLU3D-openmole release
 simplu3dopenmolescripversion='1.0'
 
+## Version of simplushp2pgsql
+simplushp2pgsqlversion='0.0.11'
 
 wget https://github.com/julienperret/aggregator/releases/download/v$aggregatorscriptversion/aggregator-$aggregatorscriptversion.zip
 
@@ -23,3 +25,5 @@ wget https://github.com/SimPLU3D/simplu3D-openmole/releases/download/V$simplu3do
 unzip SimPLU3D-openmole-release.zip
 
 rm SimPLU3D-openmole-release.zip
+
+wget https://github.com/SimPLU3D/simplushp2pgsql/releases/download/$simplushp2pgsqlversion/simplushp2pgsql.jar
